@@ -8,7 +8,7 @@ class Dbh {
             $servername = "localhost";
             $username = "root";
             $password = "";
-            $dbname = "Umschulung-Fachinformatiker-Anwendungsentwicklung-Schuler";
+            $dbname = "Umschulung-Fachinformatiker-Anwendungsentwicklung";
 
             $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
             return $conn;

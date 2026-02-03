@@ -6,7 +6,7 @@ class Database {
     private $host = 'localhost';
     private $user = 'root';
     private $pass = '';
-    private $dbname = 'Umschulung-Fachinformatiker-Anwendungsentwicklung-Schuler';
+    private $dbname = 'Umschulung-Fachinformatiker-Anwendungsentwicklung';
     private $dbh;
     private $stmt;
     private $error;

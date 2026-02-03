@@ -1,7 +1,7 @@
 <?php
 
 $host = "localhost";
-$dbname = "Umschulung-Fachinformatiker-Anwendungsentwicklung-Schuler";
+$dbname = "Umschulung-Fachinformatiker-Anwendungsentwicklung";
 $user = "root";
 $pass = "";
 

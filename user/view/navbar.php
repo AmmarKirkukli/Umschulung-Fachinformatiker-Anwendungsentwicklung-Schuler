@@ -2,7 +2,7 @@
 
 
 <?php
-$basePath = '../../../Umschulung-Fachinformatiker-Anwendungsentwicklung-Schuler/user/img/';
+$basePath = '../../../Umschulung-Fachinformatiker-Anwendungsentwicklung/user/img/';
 $isLoggedIn = isset($_SESSION["user_id"]);
 $username = $_SESSION['username'] ?? '';
 

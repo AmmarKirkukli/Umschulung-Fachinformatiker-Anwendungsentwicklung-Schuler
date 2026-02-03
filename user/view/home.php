@@ -1,5 +1,5 @@
 <?php
-$basePath = '../../../Umschulung-Fachinformatiker-Anwendungsentwicklung-Schuler/user/img/';
+$basePath = '../../../Umschulung-Fachinformatiker-Anwendungsentwicklung/user/img/';
 $features = [
     ['number' => '1', 'icon' => 'fa-pencil', 'title' => 'Unified Modeling Language', 'description' => 'Ist eine standardisierte, grafische Modellierungssprache zur Visualisierung, Spezifikation und Dokumentation von Softwaresystemen und Geschäftsprozessen, die Struktur und Verhalten darstellt.'],
     ['number' => '2', 'icon' => 'fa-tv', 'title' => 'Anwendungssoftware', 'description' => 'umfasst Computerprogramme, die der Nutzer zur Erledigung spezifischer Aufgaben einsetzt, wie Textverarbeitung, Bildbearbeitung, Webbrowser oder Spiele'],

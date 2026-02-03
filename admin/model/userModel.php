@@ -10,7 +10,7 @@ class UserModel {
 
     public function __construct() {
         $db_host = 'localhost';
-        $db_name = 'Umschulung-Fachinformatiker-Anwendungsentwicklung-Schuler';
+        $db_name = 'Umschulung-Fachinformatiker-Anwendungsentwicklung';
         $db_user = 'root';
         $db_password = '';
     

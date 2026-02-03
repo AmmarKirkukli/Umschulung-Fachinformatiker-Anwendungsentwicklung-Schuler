@@ -1,5 +1,5 @@
 <?php
-$basePath = '../../../Umschulung-Fachinformatiker-Anwendungsentwicklung-Schuler/user/img/';
+$basePath = '../../../Umschulung-Fachinformatiker-Anwendungsentwicklung/user/img/';
 $owner = 'Ammar Kirkukli';
 $siteName = 'Umschulung Kirkukli';
 $yearStart = 2022;

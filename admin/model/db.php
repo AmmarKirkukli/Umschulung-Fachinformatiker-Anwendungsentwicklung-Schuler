@@ -2,7 +2,7 @@
  $servername = "localhost";
  $username = "root";
  $password = "";
- $dbname = "Umschulung-Fachinformatiker-Anwendungsentwicklung-Schuler";
+ $dbname = "Umschulung-Fachinformatiker-Anwendungsentwicklung";
 
  try {
     $db = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
