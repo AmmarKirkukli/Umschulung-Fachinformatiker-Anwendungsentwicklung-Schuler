@@ -26,7 +26,7 @@
                 
                     if(isset($_SESSION['admin_id'])) {
                 ?>
-                    <li class= "list-unstyled pt-1"><a class="text-decoration-none me-2 pt-4 fw-bold" href="index.php?action=profileAdmin"><?php echo $_SESSION['admin_name']; ?></a>
+                    <li class= "list-unstyled pt-1"><a class="text-decoration-none me-2 pt-4 fw-bold" href="index.php?action=profileAdmin"><?php echo $_SESSION['admin_name'] ?? 'Admin'; ?></a>
                     <a class="btn btn-secondary btn-sm rounded-pill main-btn" id="save-btn" class="btn btn-success" href="index.php?action=logoutAdmin" >L0GOUT</a></li>
                 <?php 
                     }else {
